@@ -1,0 +1,5 @@
+node_modules
+db.json
+.vscode
+.DS_Store
+build
